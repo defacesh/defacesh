@@ -34,7 +34,7 @@
 ## 🛠 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/defacesh/chatbox">
+  <a href="https://github.com/defacesh/Nexus-Chat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=defacesh&repo=chatbox&theme=tokyonight&border_radius=10" />
   </a>
   <a href="https://github.com/defacesh/py-face-emotion-detection">
