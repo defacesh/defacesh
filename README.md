@@ -35,7 +35,7 @@
 
 <div align="center">
   <a href="https://github.com/defacesh/Nexus-Chat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=defacesh&repo=chatbox&theme=tokyonight&border_radius=10" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=defacesh&repo=Nexus-Chat&theme=tokyonight&border_radius=10" />
   </a>
   <a href="https://github.com/defacesh/py-face-emotion-detection">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=defacesh&repo=py-face-emotion-detection&theme=tokyonight&border_radius=10" />
