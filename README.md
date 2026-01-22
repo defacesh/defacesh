@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D33D&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+hasban" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D33D&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+defacesh;Student+%26+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,77 +8,70 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👋 About Me
 
-- 🎮 Passionate about **Game Development & Full-Stack Applications**  
-- 💻 Skilled in **Unity, C#, JavaScript, TypeScript, HTML, CSS, PHP, Java, Python**  
-- 💡 Interested in **WebRTC, WebSockets, AI, Networking & Backend Development**  
-- 🧪 Always exploring **new technologies and frameworks**  
-- 🎯 **Goal:** Build high-performance, scalable applications with clean code  
+- 🎓 **Student & Developer:** Currently learning and building in the world of software.
+- 🎮 **Passionate about Games:** Making things move in **Unity** with **C#**.
+- 💻 **Full-Stack Journey:** Writing code with **JavaScript, TypeScript** and **Node.js**.
+- 💡 **Curiosity:** Experimenting with **WebRTC**, **AI**, and real-time stuff.
+- 🎯 **The Goal:** To write clean code and build cool, scalable projects.
 
 ---
 
-## ⚙️ Tech Stack  
+## ⚙️ Tech Stack
 
-### 🎮 Game Development
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **🎮 Game Dev** | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
+| **🌐 Web** | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **🛠 Backend** | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **⚡ Real-time** | ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **🗄 Storage** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **💻 Systems** | ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VSC](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+
+---
+
+## 🛠 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/defacesh/chatbox">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=defacesh&repo=chatbox&theme=tokyonight&border_radius=10" />
+  </a>
+  <a href="https://github.com/defacesh/py-face-emotion-detection">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=defacesh&repo=py-face-emotion-detection&theme=tokyonight&border_radius=10" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Metrics
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Game%20Engine-Unity-000000?logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-C%23-239120?logo=csharp&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defacesh&theme=tokyonight&show_icons=true&hide_border=true&layout=normal" width="400" />
 </p>
 
-### 🌐 Frontend Development
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" />
-</p>
-
-### 🛠 Backend & Networking
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebRTC-008000?logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-Socket.io-010101?logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6C37?logo=postman&logoColor=white" />
-</p>
-
-### 🗄 Databases & Cloud
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-</p>
-
-### ⚙️ DevOps & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=defacesh&show_icons=true&theme=radical&hide_border=true" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=defacesh&theme=radical&hide_border=true" height="175" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Connect with me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasban0&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasban0&theme=whatsapp-dark" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasban0&layout=compact&theme=radical" height="165" />
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/hasban0">
-    <img src="https://img.shields.io/badge/GitHub-hasban0-181717?logo=github&logoColor=white" />
+  <a href="https://github.com/defacesh">
+    <img src="https://img.shields.io/badge/GitHub-defacesh-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:hasankarakaya0341+github@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7D33D&height=60&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <sub><i>i use arch btw</i> 🐧</sub>
 </p>
